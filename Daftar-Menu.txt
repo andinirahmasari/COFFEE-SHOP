@@ -11,3 +11,10 @@ Snack:
 3. Spicy Garlic Tofu  Rp. 18.000
 4. Mix Platter   Rp. 30. 000
 5. Tacos         Rp. 17. 000
+
+Dessert:
+1. Strawberry Cheesecake  Rp. 35.000
+2. Tropical Mango Pudding Rp. 17.000
+3. Lotus Biscoff	  Rp. 28.000
+4. Vanilla Ice Cream	  Rp. 13.000
+5. Matcha Waffles	  Rp. 18.000
