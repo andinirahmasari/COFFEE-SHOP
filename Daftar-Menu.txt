@@ -10,8 +10,9 @@ Snack:
 1. French Fries  	Rp. 15.000
 2. Onion Rings   	Rp. 15.000
 3. Spicy Garlic Tofu  	Rp. 18.000
-4. Mix Platter   	Rp. 30. 000
-5. Tacos         	Rp. 17. 000
+4. Mix Platter   	Rp. 30.000
+5. Tacos         	Rp. 17.000
+6. Beef Burger          Rp. 26.000
 
 Dessert:
 1. Strawberry Cheesecake  Rp. 35.000
