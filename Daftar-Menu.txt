@@ -31,6 +31,6 @@ Non-Coffee:
 6. Melon Squash         Rp. 10.000
 
 Paket Menu:
-1. Paket Mood (Butterscoth + Beef Burger)
-2. Paket Buddy (Cappucino + Lychee Tea + French Fries + Choco Cookies)
-3. Paket Squad (Latte Hazelnut + Mocha + Matcha Latte + Melon Squash + Mix Platter + Tacos + Matcha Waffles)
+1. Paket Mood (Butterscoth + Beef Burger) Rp. 46.000
+2. Paket Buddy (Cappucino + Lychee Tea + French Fries + Choco Cookies) Rp. 60.000
+3. Paket Squad (Latte Hazelnut + Mocha + Matcha Latte + Melon Squash + Mix Platter + Tacos + Matcha Waffles) Rp. 145.000
