@@ -20,6 +20,7 @@ Dessert:
 3. Lotus Biscoff	  Rp. 28.000
 4. Vanilla Ice Cream	  Rp. 13.000
 5. Matcha Waffles	  Rp. 18.000
+6. Choco Cookies          Rp. 12.000
 
 Non-Coffee:
 1. Matcha Latte    	Rp. 23.000
