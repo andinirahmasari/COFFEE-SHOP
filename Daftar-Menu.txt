@@ -1,16 +1,16 @@
-Kopi:
-1. Cappucino  RP. 20.000
-2. Americano  Rp. 16.000
+Coffee:
+1. Cappucino  	   Rp. 20.000
+2. Americano  	   Rp. 16.000
 3. Latte Hazelnut  Rp. 30.000
-4. Butterscoth Rp. 25.000
-5. Mocha  Rp. 23.000
+4. Butterscoth 	   Rp. 25.000
+5. Mocha  	   Rp. 23.000
 
 Snack:
-1. French Fries  Rp. 15.000
-2. Onion Rings   Rp. 15.000
-3. Spicy Garlic Tofu  Rp. 18.000
-4. Mix Platter   Rp. 30. 000
-5. Tacos         Rp. 17. 000
+1. French Fries  	Rp. 15.000
+2. Onion Rings   	Rp. 15.000
+3. Spicy Garlic Tofu  	Rp. 18.000
+4. Mix Platter   	Rp. 30. 000
+5. Tacos         	Rp. 17. 000
 
 Dessert:
 1. Strawberry Cheesecake  Rp. 35.000
@@ -18,3 +18,10 @@ Dessert:
 3. Lotus Biscoff	  Rp. 28.000
 4. Vanilla Ice Cream	  Rp. 13.000
 5. Matcha Waffles	  Rp. 18.000
+
+Non-Coffee:
+1. Matcha Latte    	Rp. 23.000
+2. Lychee Tea      	Rp. 19.000
+3. Chocolatte Milkshake Rp. 21.000
+4. Thai Tea        	Rp. 18.000
+5. Fruit Soda      	Rp. 16.000
